@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rajgits/rajgits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 PHP Laravel | Livewire | React Developer.
 - 🧑‍💻 Core PHP to Advance (using OOPS) + JSS.
 - 📅 Database: Mysql,Firebase and Mongo(basic).
@@ -16,4 +11,4 @@ Here are some ideas to get you started:
 - ☀️ Top-rated Upwork freelancer.
 - 🌀 Excellent communication and Interpersonal skills.
 
--->
+
