@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 - 🔭 PHP Laravel | Livewire | React Developer.
@@ -15,7 +15,7 @@
 - 🖇️ https://www.linkedin.com/in/bharath-raj-36338bb2/
 
 
-## What you can Expect from my code:
+### What you can Expect from my code:
 - ⚡ Object-oriented programming approach including (Polymorphism, Method overloading, using Interface structures, using trait methodology).
 - ⚡ Giving proper way of access specifier (Private and Protected) and PHP hinting.
 - ⚡ JS ES6 & JSX coding pattern.
