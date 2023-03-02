@@ -5,7 +5,7 @@
 - 🧑‍💻 Core PHP to Advance (using OOPS) + JSS.
 - 📅 Database: Mysql,Firebase and Mongo(basic).
 - 🧑‍ Laravel Ecosystem: Jetstream, Lummen, Socket programing, Laravel Echo, Vite Package builder, Laravel sanctum
-- 🌱 12+ years of industry and freelance expertise, OOPSS and logical coder.
+- 🌱 12+ years of industry and freelance expertise, OOPS and logical coder.
 - 🤔 Developing Mobile API(REST) using Lumen and Laravel.
 - 💬 AWS windows and Linux environment, Autoscalability, Maltiple instance,Ec2,multiple security groups,ELB,VPC environment,RDS,Route 53.
 - 🧑‍💻 Bootstrap 4 to 5 and Tailwind
