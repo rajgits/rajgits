@@ -2,6 +2,7 @@
 
 
 - 🔭 PHP Laravel | Livewire | React Developer.
+- 📫 Es6 JSX Hooks Redux NextJS and Express
 - 🧑‍💻 Core PHP to Advance (using OOPS) + JSS.
 - 📅 Database: Mysql,Firebase and Mongo(basic).
 - 🧑‍ Laravel Ecosystem: Jetstream, Lummen, Socket programing, Laravel Echo, Vite Package builder, Laravel sanctum
