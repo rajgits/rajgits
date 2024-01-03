@@ -12,7 +12,7 @@ This side bharathraj.eth Dedicated to crafting cutting-edge web2 and web3 soluti
 - 🌀 Excellent communication and Interpersonal skills. 
 - 🖇️ https://www.linkedin.com/in/bharath-raj-36338bb2/
 - 🧑‍💻 Base and OP Game and NFT dev 
-
+   
 
 
 
