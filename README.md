@@ -8,7 +8,6 @@ This side Bharathraj.eth Dedicated to crafting cutting-edge web2 and web3 soluti
 - 📫 Es6 JSX Hooks Redux NextJS and Express
 - 💬 AWS windows and Linux environment, Autoscalability, Maltiple instance,Ec2,multiple security groups,ELB,VPC environment,RDS,Route 53.
 - 🧑‍💻 Bootstrap 4 to 5 and Tailwind
-- 📫 Tech Blog writer @ Medium (https://medium.com/@rajbharathmail).
 - 👯 Web3 and Blockchain enthusiast.
 - 🌀 Excellent communication and Interpersonal skills. 
 - 🧑‍💻 TON and Telegram Mini apps
