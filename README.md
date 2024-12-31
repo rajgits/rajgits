@@ -10,7 +10,7 @@ This side Bharathraj.eth Dedicated to crafting cutting-edge web2 and web3 soluti
 - 🧑‍💻 Bootstrap 4 to 5 and Tailwind
 - 👯 Web3 and Blockchain enthusiast.
 - 🌀 Excellent communication and Interpersonal skills. 
-- 🧑‍💻 TON and Telegram Mini apps
+- 🧑‍💻 TON and Telegram Mini apps dev
    
 
 
