@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-This side Bharathraj.eth Dedicated to crafting cutting-edge web2 and web3 solutions using Solidity and JavaScript with Laravel. Boasting 9 years of professional and freelance enterprise expertise. Transitioned from a full-stack background to pioneering in web3 development.
+This side Bharathraj.eth Dedicated to crafting cutting-edge web2 and web3 solutions using Solidity and JavaScript with Laravel. Boasting 12 years of professional and freelance enterprise expertise. Transitioned from a full-stack background to pioneering in web3 development.
 
 - 👯 **Node Laravel React Next**
 - 🔭 **Solidity TACT** React Web3Js Laravel developer.
